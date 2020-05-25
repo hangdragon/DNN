@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11f964b5-7865-4c08-96f2-046bb31ce5fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1arIkgBYxdrmsSWliHWQhFKWLfi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.t2">
+    <configuration name="color_Channel_RGB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="openCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/color_Channel_RGB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="openCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matplitlib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="openCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplitlib.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="openCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="openCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.t2" />
+        <item itemvalue="Python.t1" />
+        <item itemvalue="Python.exer" />
+        <item itemvalue="Python.color_Channel_RGB" />
+        <item itemvalue="Python.matplitlib" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11f964b5-7865-4c08-96f2-046bb31ce5fa" name="Default Changelist" comment="" />
+      <created>1587487430825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587487430825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590302976014">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="578" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.978@0.23.1680.978" timestamp="1590302976014" />
+    <state width="1659" height="253" key="GridCell.Tab.0.bottom" timestamp="1590404820069">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1659" height="255" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587487549899" />
+    <state width="1659" height="253" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1590404820069" />
+    <state width="1659" height="254" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1590327219657" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1587523460159" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1587523118164" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1587522547134" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1587524557283" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1587526342491" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1587535274607" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1590320670678" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1590312600195" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1590311270953" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1590310403867" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1590307213440" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.979@0.23.1680.979" timestamp="1590306012051" />
+    <state width="1659" height="256" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1590305625938" />
+    <state width="1659" height="253" key="GridCell.Tab.0.center" timestamp="1590404820068">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1659" height="255" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587487549899" />
+    <state width="1659" height="253" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1590404820068" />
+    <state width="1659" height="254" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1590327219657" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1587523460158" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1587523118163" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1587522547133" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1587524557283" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1587526342490" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1587535274606" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1590320670678" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1590312600194" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1590311270952" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1590310403867" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1590307213439" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.979@0.23.1680.979" timestamp="1590306012050" />
+    <state width="1659" height="256" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1590305625937" />
+    <state width="1659" height="253" key="GridCell.Tab.0.left" timestamp="1590404820068">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1659" height="255" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587487549898" />
+    <state width="1659" height="253" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1590404820068" />
+    <state width="1659" height="254" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1590327219657" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1587523460157" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1587523118162" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1587522547133" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1587524557282" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1587526342490" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1587535274605" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1590320670677" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1590312600194" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1590311270951" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1590310403866" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1590307213438" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.979@0.23.1680.979" timestamp="1590306012049" />
+    <state width="1659" height="256" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1590305625936" />
+    <state width="1659" height="253" key="GridCell.Tab.0.right" timestamp="1590404820069">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state width="1659" height="255" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587487549899" />
+    <state width="1659" height="253" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1590404820069" />
+    <state width="1659" height="254" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1590327219657" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1587523460158" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1587523118163" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1587522547134" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1587524557283" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1587526342491" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1587535274606" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1590320670678" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1590312600194" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1590311270952" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1590310403867" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1590307213439" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.979@0.23.1680.979" timestamp="1590306012050" />
+    <state width="1659" height="256" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1590305625937" />
+    <state x="517" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1590404669890">
+      <screen x="0" y="23" width="1680" height="949" />
+    </state>
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587487637256" />
+    <state x="517" y="346" key="com.intellij.ide.util.TipDialog/0.23.1680.949@0.23.1680.949" timestamp="1590404669890" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1587535084619">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.23.1680.966@0.23.1680.966" timestamp="1587535084619" />
+  </component>
+</project>
